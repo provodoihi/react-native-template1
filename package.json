@@ -4,8 +4,7 @@
   "description": "Test template for React Native.",
   "files": [
     "template",
-    "template.config.js",
-    ".gitignore"
+    "template.config.js"
   ],
   "repository": {
     "type": "git",
