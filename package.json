@@ -1,17 +1,25 @@
 {
-    "name": "@sonpk.dev/react-native-template1",
-    "version": "0.0.2",
-    "description": "Test template for React Native.",
-    "files": [
-      "template",
-      "template.config.js",
-      ".gitignore"
-    ],
-    "keywords": [
-      "react-native",
-      "template",
-      "boilerplate"
-    ],
-    "author": "SonPK <sonpk@vmodev.com>",
-    "license": "MIT"
-  }
+  "name": "@sonpk.dev/react-native-template1",
+  "version": "0.0.3",
+  "description": "Test template for React Native.",
+  "files": [
+    "template",
+    "template.config.js",
+    ".gitignore"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/provodoihi/react-native-template1.git"
+  },
+  "keywords": [
+    "react-native",
+    "template",
+    "boilerplate"
+  ],
+  "author": "SonPK <sonpk@vmodev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/provodoihi/react-native-template1/issues"
+  },
+  "homepage": "https://github.com/provodoihi/react-native-template1"
+}
